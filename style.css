@@ -1,4 +1,6 @@
-.mySidebar {
+
+
+.#mySidebar {
     display:none;
     z-index:2;
     width:40%;
@@ -6,7 +8,8 @@
 }
 
 body,h1,h2,h3,h4,h5,h6 {
-    font-family:Trebuchet MS, sans-serife}
+    font-family:Trebuchet MS, sans-serife;
+}
 
 .padding-32{
     font-size:17px;}
@@ -17,3 +20,13 @@ body,h1,h2,h3,h4,h5,h6 {
  .top {
      max-width:1200px;
      margin:auto;}
+
+ .main .contain .padding {
+    max-width:1200px;
+    margin-top:100px"
+ }    
+
+.white .xlarge {
+    max-width:1200px;
+    margin:auto;
+}
