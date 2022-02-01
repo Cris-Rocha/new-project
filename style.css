@@ -1,12 +1,5 @@
 
 
-.mySidebar .sidebar .bar-block .card .top .xlarge .animate-left{
-    display:none;
-    z-index:2;
-    width:40%;
-    min-width:300px;
-}
-
 body,h1,h2,h3,h4,h5,h6 {
     font-family:Trebuchet MS, sans-serife;
 }
